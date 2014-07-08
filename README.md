@@ -1,4 +1,5 @@
 ### Well hello there!
+### Have a great day!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
